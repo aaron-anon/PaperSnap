@@ -1,8 +1,8 @@
-# ScanFlow
+# PaperSnap - PDF Scanner
 
 Professional document scanning in your pocket.
 
-ScanFlow makes it easy to capture, convert, and share documents directly from your iPhone.
+PaperSnap makes it easy to capture, convert, and share documents directly from your iPhone.
 
 ## Features
 
@@ -24,4 +24,12 @@ Share documents instantly with a single tap.
 
 ## Support
 
-Need help? Visit our Support page or contact us by email.
+Questions, feedback, or need assistance with PaperSnap?
+
+Visit our Support page for help and contact information:
+
+[Support](https://aaron-anon.github.io/PaperSnap/support)
+
+### Privacy First
+
+PaperSnap is designed with privacy in mind. No accounts, no subscriptions, and no data collection. Your documents remain on your device unless you choose to share them.
