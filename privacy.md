@@ -12,6 +12,12 @@ PaperSnap - PDF Scanner does not collect, store, transmit, or share any personal
 
 All scanned documents and images remain on your device unless you explicitly choose to export or share them.
 
+## Camera Access
+
+PaperSnap requires access to your device camera to scan documents.
+
+Photos and scanned documents remain on your device unless you choose to share them.
+
 ## Analytics
 
 PaperSnap - PDF Scanner does not use analytics services.
